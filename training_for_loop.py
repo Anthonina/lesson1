@@ -1,11 +1,10 @@
-# -*- coding: utf-8 -*-
-#numbers = [1, 7, 33, 56, 25, 89, 100, 5, 29, 60]
-#for number in numbers:
-#    print(number + 1)
+numbers = [1, 7, 33, 56, 25, 89, 100, 5, 29, 60]
+for number in numbers:
+    print(number + 1)
 
-#string = input('Введите что-нибудь: ')
-#for letter in string:
- #   print(letter)
+string = input('Введите что-нибудь: ')
+for letter in string:
+    print(letter)
 
 
 
